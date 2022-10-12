@@ -8,4 +8,4 @@ velocity they threw it at.
 Skills Used:
 - I was able to implement correct use of input and output in python
 - I got associated with Unit testing in python
-- I learned how to import other python files from the same folder and structure my methods better for a cleaner look
+- I learned how to import other python files from the same folder and structure my methods better for a better code style

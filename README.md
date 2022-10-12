@@ -1,7 +1,7 @@
 # Kevin Cisneros-Cuevas
 
-Skater: This project is the first python project that I worked on for my CPE 101 - Introduction to Computer Science class,
-this implemented a program that would prompt the user for its weight, distance an object will be thrown, and the object that
+Skater: This project is the first python project that I worked on for my CPE 101 - Introduction to Computer Science class.
+This implemented a program that would prompt the user for its weight, distance an object will be thrown, and the object that
 they will throw. After doing some calculations the program will print a message depending on the object they threw and the
 velocity they threw it at.
 
